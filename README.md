@@ -2,7 +2,9 @@
 
 Manage your calendar in YAML.
 
-## Why
+![](docs/plany.gif)
+
+## Motivation
 
 It's yet another calendar application. Build with the following goals in mind:
 
@@ -80,7 +82,9 @@ Means *1st and 5th day of each month from June 2025 onward, as long as it isn't 
 `1`, `5`, `2025/6-`, `wed` are primitives. `,`, `!` and space are operators. We will take a closer
 look at them in the following chapters.
 
-Note that the application can be run as `plany play`, which allows for testing different data specs.
+Note that the application can be run as `plany play`, which allows for testing different data specs:
+
+![](docs/play.gif)
 
 ### Primitives
 
