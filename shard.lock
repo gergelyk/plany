@@ -1,0 +1,26 @@
+version: 2.0
+shards:
+  commander:
+    git: https://github.com/mrrooijen/commander.git
+    version: 0.4.0
+
+  cute:
+    git: https://github.com/papierkorb/cute.git
+    version: 0.4.0
+
+  fancyline:
+    git: https://github.com/papierkorb/fancyline.git
+    version: 0.4.1
+
+  future:
+    git: https://github.com/crystal-community/future.cr.git
+    version: 1.0.0
+
+  ncurses:
+    git: https://github.com/samuallb/ncurses.git
+    version: 1.1.0
+
+  xdg_base_directory:
+    git: https://github.com/tijn/xdg_base_directory.git
+    version: 1.0.5+git.commit.8399964bce6ba0754fb94e85e83d3a816bc09ae5
+

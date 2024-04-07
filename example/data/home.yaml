@@ -1,0 +1,11 @@
+cleaning:
+  mon: garden
+  tue,thu: kitchen
+  fri: rooms, bathroom
+
+1: backup data
+5,15,25: review stock shares
+
+01/10: buy new insurance
+01/12: pay for hosting
+08/01: car technical exam

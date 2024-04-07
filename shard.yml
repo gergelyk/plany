@@ -1,0 +1,21 @@
+name: plany
+version: 0.1.0
+
+dependencies:
+  ncurses:
+   github: SamualLB/ncurses
+
+  fancyline:
+    github: Papierkorb/fancyline
+    version: ~> 0.4.1
+
+  xdg_base_directory:
+    github: tijn/xdg_base_directory
+
+  commander:
+    github: mrrooijen/commander
+    version: ~> 0.4.0
+
+targets:
+  plany:
+    main: src/plany.cr
