@@ -35,7 +35,7 @@ And we have a special literal to describe events that occur every day: `daily`.
 
 Internally literals are translated to other expressions, e.g. *triples* or *ranges*.
 
-### *Triple*
+### Triple
 
 Triple consists of one, two or three integers separated by `/`. Following logic applies:
 
@@ -44,7 +44,7 @@ Triple consists of one, two or three integers separated by `/`. Following logic 
 - Three digits denote a year, month and day respectively.
 
 
-### *Prefix*
+### Prefix
 
 There are following primitives of this type:
 
