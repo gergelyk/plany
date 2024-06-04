@@ -54,7 +54,7 @@ For an example take a look at `example/config/views.yaml`.
 
 ## Installation
 
-Currently we don't distribute binaries. Only installation from sources is available:
+Either download precompiled binary, or compile it from sources:
 
 1. Install [crystal](https://crystal-lang.org/) ~1.11.2 compiler.
 2. Clone this repository and enter into it.
