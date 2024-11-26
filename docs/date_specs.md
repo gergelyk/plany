@@ -39,10 +39,9 @@ Internally literals are translated to other expressions, e.g. *triples* or *rang
 
 Triple consists of one, two or three integers separated by `/`. Following logic applies:
 
-- Single digit denotes day of a month if it is lower or equal 31. Otherwise it denotes a year.
-- Two digits denote a month and day of that month if the first digit is lower or equal 12. Otherwise they denote a year and month.
-- Three digits denote a year, month and day respectively.
-
+- Single integer denotes day of a month if it is lower or equal 31. Otherwise it denotes a year.
+- Two integers denote a month and day of that month if the first digit is lower or equal 12. Otherwise they denote a year and month.
+- Three integers denote a year, month and day respectively.
 
 ### Prefix
 
@@ -52,7 +51,6 @@ There are following primitives of this type:
 - `mX`, where X is from 1 to 12. This denotes a month. E.g. `m6` is the same as `june`.
 
 Internally prefixes are translated to other expressions, e.g. *triples* or *ranges*.
-
 
 ## Operators
 
