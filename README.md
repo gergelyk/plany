@@ -2,7 +2,7 @@
 
 [ ![](https://img.shields.io/badge/Date%20Specs-blue?style=for-the-badge&logo=gitbook&logoColor=white) ](https://gergelyk.github.io/plany/date_specs.html)
 [ ![](https://img.shields.io/badge/Event%20Formats-blue?style=for-the-badge&logo=gitbook&logoColor=white) ](https://gergelyk.github.io/plany/event_formats.html)
-[ ![](https://img.shields.io/badge/Example-darkgreen?style=for-the-badge&logo=cachet&logoColor=white) ](https://github.com/gergelyk/plany/tree/main/example)
+[ ![](https://img.shields.io/badge/Examples-darkgreen?style=for-the-badge&logo=cachet&logoColor=white) ](https://github.com/gergelyk/plany/tree/main/example)
 
 Manage your calendar in YAML.
 
