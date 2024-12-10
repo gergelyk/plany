@@ -2,7 +2,7 @@
 
 
 [ ![](https://img.shields.io/github/v/release/gergelyk/plany) ](https://github.com/gergelyk/plany/releases)
-![](https://img.shields.io/badge/license-mit-green)
+![](https://img.shields.io/badge/license-%4D%49%54-green)
 
 [ ![](https://img.shields.io/badge/Event%20Formats-blue?style=for-the-badge&logo=gitbook&logoColor=white) ](https://gergelyk.github.io/plany/event_formats.html)
 [ ![](https://img.shields.io/badge/Date%20Specs-blue?style=for-the-badge&logo=gitbook&logoColor=white) ](https://gergelyk.github.io/plany/date_specs.html)
