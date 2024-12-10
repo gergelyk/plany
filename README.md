@@ -27,7 +27,7 @@ Structure of sub-directories is fully defined by the user. Example can be found 
 Calendar events are stored in YAML files. Each YAML file consists of dictionaries building a tree.
 Leaves of the tree define events. Structure of dictionaries is a continuation of directory structure.
 
-There are three formats of the leaves available. Keep on reading about them [here](docs/event_formats.md)
+There are three formats of the leaves available. Keep on reading about them [here](https://gergelyk.github.io/plany/event_formats.html)
 
 ## Date Specifications
 
@@ -39,7 +39,7 @@ Date specs determine when events occur. They consist of primitives combined by o
 
 Means *1st and 5th day of each month from June 2025 onward, as long as it isn't Wednesday*.
 `1`, `5`, `2025/6-`, `wed` are primitives. `,`, `!` and space are operators. We will take a closer
-look at them in the following [document](docs/date_specs.md).
+look at them in the following [document](https://gergelyk.github.io/plany/date_specs.html).
 
 Note that the application can be run as `plany play`, which allows for testing different data specs:
 
