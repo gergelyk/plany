@@ -1,5 +1,8 @@
 # plany
 
+[ ![](https://img.shields.io/badge/Date-Specs-blue?style=for-the-badge&logo=gitbook&logoColor=white) ](https://gergelyk.github.io/plany/date_specs.html)
+[ ![](https://img.shields.io/badge/Event Formats-blue?style=for-the-badge&logo=gitbook&logoColor=white) ](https://gergelyk.github.io/plany/event_formats.html)
+
 Manage your calendar in YAML.
 
 ![](docs/plany.gif)
