@@ -4,8 +4,8 @@
 [ ![](https://img.shields.io/github/v/release/gergelyk/plany) ](https://github.com/gergelyk/plany/releases)
 ![](https://img.shields.io/badge/license-%4D%49%54-green)
 
-[ ![](https://img.shields.io/badge/Event%20Formats-blue?style=for-the-badge&logo=gitbook&logoColor=white) ](https://gergelyk.github.io/plany/event_formats.html.md)
-[ ![](https://img.shields.io/badge/Date%20Specs-blue?style=for-the-badge&logo=gitbook&logoColor=white) ](https://gergelyk.github.io/plany/date_specs.html.md)
+[ ![](https://img.shields.io/badge/Event%20Formats-blue?style=for-the-badge&logo=gitbook&logoColor=white) ](https://gergelyk.github.io/plany/event_formats.md.html)
+[ ![](https://img.shields.io/badge/Date%20Specs-blue?style=for-the-badge&logo=gitbook&logoColor=white) ](https://gergelyk.github.io/plany/date_specs.md.html)
 [ ![](https://img.shields.io/badge/Examples-darkgreen?style=for-the-badge&logo=cachet&logoColor=white) ](https://github.com/gergelyk/plany/tree/main/example)
 
 Manage your calendar in YAML.
@@ -31,7 +31,7 @@ Structure of sub-directories is fully defined by the user. Example can be found 
 Calendar events are stored in YAML files. Each YAML file consists of dictionaries building a tree.
 Leaves of the tree define events. Structure of dictionaries is a continuation of directory structure.
 
-There are three formats of the leaves available. Keep on reading about them [here](https://gergelyk.github.io/plany/event_formats.html.md)
+There are three formats of the leaves available. Keep on reading about them [here](https://gergelyk.github.io/plany/event_formats.md.html)
 
 ## Date Specifications
 
@@ -43,7 +43,7 @@ Date specs determine when events occur. They consist of primitives combined by o
 
 Means *1st and 5th day of each month from June 2025 onward, as long as it isn't Wednesday*.
 `1`, `5`, `2025/6-`, `wed` are primitives. `,`, `!` and space are operators. We will take a closer
-look at them in the following [document](https://gergelyk.github.io/plany/date_specs.html.md).
+look at them in the following [document](https://gergelyk.github.io/plany/date_specs.md.html).
 
 Note that the application can be run as `plany play`, which allows for testing different data specs:
 
